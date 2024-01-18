@@ -1,0 +1,135 @@
+TOP.65a8d4d1.0004e058	START
+TOP.65a8d4d1.0004e058	folder_config->cwd	D:\YANG Linshan\Desktop\½âÃÜRAR\hashcat-6.2.6
+TOP.65a8d4d1.0004e058	folder_config->install_dir	.
+TOP.65a8d4d1.0004e058	folder_config->profile_dir	.
+TOP.65a8d4d1.0004e058	folder_config->session_dir	.
+TOP.65a8d4d1.0004e058	folder_config->shared_dir	.
+TOP.65a8d4d1.0004e058	user_options->custom_charset_1	?l?d?u
+TOP.65a8d4d1.0004e058	user_options->custom_charset_2	?l?d
+TOP.65a8d4d1.0004e058	user_options->custom_charset_3	?l?d*!$@_
+TOP.65a8d4d1.0004e058	user_options->encoding_from	utf-8
+TOP.65a8d4d1.0004e058	user_options->encoding_to	utf-8
+TOP.65a8d4d1.0004e058	user_options->outfile	output.txt
+TOP.65a8d4d1.0004e058	user_options->rule_buf_l	:
+TOP.65a8d4d1.0004e058	user_options->rule_buf_r	:
+TOP.65a8d4d1.0004e058	user_options->session	hashcat
+TOP.65a8d4d1.0004e058	user_options->separator	:
+TOP.65a8d4d1.0004e058	user_options->limit	0
+TOP.65a8d4d1.0004e058	user_options->skip	0
+TOP.65a8d4d1.0004e058	user_options->attack_mode	3
+TOP.65a8d4d1.0004e058	user_options->benchmark	0
+TOP.65a8d4d1.0004e058	user_options->benchmark_all	0
+TOP.65a8d4d1.0004e058	user_options->bitmap_max	18
+TOP.65a8d4d1.0004e058	user_options->bitmap_min	16
+TOP.65a8d4d1.0004e058	user_options->debug_mode	0
+TOP.65a8d4d1.0004e058	user_options->hash_info	0
+TOP.65a8d4d1.0004e058	user_options->force	0
+TOP.65a8d4d1.0004e058	user_options->hwmon_disable	0
+TOP.65a8d4d1.0004e058	user_options->hwmon_temp_abort	90
+TOP.65a8d4d1.0004e058	user_options->hash_mode	13000
+TOP.65a8d4d1.0004e058	user_options->hex_charset	0
+TOP.65a8d4d1.0004e058	user_options->hex_salt	0
+TOP.65a8d4d1.0004e058	user_options->hex_wordlist	0
+TOP.65a8d4d1.0004e058	user_options->hook_threads	16
+TOP.65a8d4d1.0004e058	user_options->identify	0
+TOP.65a8d4d1.0004e058	user_options->increment	1
+TOP.65a8d4d1.0004e058	user_options->increment_max	256
+TOP.65a8d4d1.0004e058	user_options->increment_min	1
+TOP.65a8d4d1.0004e058	user_options->keep_guessing	0
+TOP.65a8d4d1.0004e058	user_options->kernel_accel	0
+TOP.65a8d4d1.0004e058	user_options->kernel_loops	0
+TOP.65a8d4d1.0004e058	user_options->kernel_threads	0
+TOP.65a8d4d1.0004e058	user_options->keyspace	0
+TOP.65a8d4d1.0004e058	user_options->left	0
+TOP.65a8d4d1.0004e058	user_options->logfile_disable	0
+TOP.65a8d4d1.0004e058	user_options->loopback	0
+TOP.65a8d4d1.0004e058	user_options->machine_readable	0
+TOP.65a8d4d1.0004e058	user_options->markov_classic	0
+TOP.65a8d4d1.0004e058	user_options->markov_disable	0
+TOP.65a8d4d1.0004e058	user_options->markov_inverse	0
+TOP.65a8d4d1.0004e058	user_options->markov_threshold	256
+TOP.65a8d4d1.0004e058	user_options->multiply_accel_disable	0
+TOP.65a8d4d1.0004e058	user_options->backend_info	0
+TOP.65a8d4d1.0004e058	user_options->backend_vector_width	0
+TOP.65a8d4d1.0004e058	user_options->optimized_kernel_enable	0
+TOP.65a8d4d1.0004e058	user_options->outfile_autohex	1
+TOP.65a8d4d1.0004e058	user_options->outfile_check_timer	5
+TOP.65a8d4d1.0004e058	user_options->outfile_format	3
+TOP.65a8d4d1.0004e058	user_options->wordlist_autohex_disable	0
+TOP.65a8d4d1.0004e058	user_options->potfile_disable	0
+TOP.65a8d4d1.0004e058	user_options->progress_only	0
+TOP.65a8d4d1.0004e058	user_options->quiet	0
+TOP.65a8d4d1.0004e058	user_options->remove	0
+TOP.65a8d4d1.0004e058	user_options->remove_timer	60
+TOP.65a8d4d1.0004e058	user_options->restore	0
+TOP.65a8d4d1.0004e058	user_options->restore_disable	0
+TOP.65a8d4d1.0004e058	user_options->restore_timer	1
+TOP.65a8d4d1.0004e058	user_options->rp_files_cnt	0
+TOP.65a8d4d1.0004e058	user_options->rp_gen	0
+TOP.65a8d4d1.0004e058	user_options->rp_gen_func_max	4
+TOP.65a8d4d1.0004e058	user_options->rp_gen_func_min	1
+TOP.65a8d4d1.0004e058	user_options->rp_gen_seed	0
+TOP.65a8d4d1.0004e058	user_options->runtime	0
+TOP.65a8d4d1.0004e058	user_options->scrypt_tmto	0
+TOP.65a8d4d1.0004e058	user_options->segment_size	33554432
+TOP.65a8d4d1.0004e058	user_options->self_test_disable	0
+TOP.65a8d4d1.0004e058	user_options->slow_candidates	0
+TOP.65a8d4d1.0004e058	user_options->show	0
+TOP.65a8d4d1.0004e058	user_options->speed_only	0
+TOP.65a8d4d1.0004e058	user_options->spin_damp	0
+TOP.65a8d4d1.0004e058	user_options->status	0
+TOP.65a8d4d1.0004e058	user_options->status_json	0
+TOP.65a8d4d1.0004e058	user_options->status_timer	10
+TOP.65a8d4d1.0004e058	user_options->stdout_flag	0
+TOP.65a8d4d1.0004e058	user_options->usage	0
+TOP.65a8d4d1.0004e058	user_options->username	0
+TOP.65a8d4d1.0004e058	user_options->veracrypt_pim_start	485
+TOP.65a8d4d1.0004e058	user_options->veracrypt_pim_stop	485
+TOP.65a8d4d1.0004e058	user_options->version	0
+TOP.65a8d4d1.0004e058	user_options->workload_profile	2
+TOP.65a8d4d1.0004e058	user_options->brain_client	0
+TOP.65a8d4d1.0004e058	user_options->brain_client_features	2
+TOP.65a8d4d1.0004e058	user_options->brain_server	0
+TOP.65a8d4d1.0004e058	user_options->brain_server_timer	300
+TOP.65a8d4d1.0004e058	user_options->brain_port	6863
+TOP.65a8d4d1.0004e058	user_options->brain_session	0
+TOP.65a8d4d1.0004e058	hashes->hashlist_mode	2
+TOP.65a8d4d1.0004e058	hashes->hashlist_format	0
+TOP.65a8d4d1.0004e058	hashes->hashes_cnt	0
+TOP.65a8d4d1.0004e058	hashes->digests_cnt	1
+TOP.65a8d4d1.0004e058	hashes->digests_done_pot	0
+TOP.65a8d4d1.0004e058	hashes->digests_done_zero	0
+TOP.65a8d4d1.0004e058	hashes->digests_done	0
+TOP.65a8d4d1.0004e058	hashes->salts_cnt	1
+TOP.65a8d4d1.0004e058	hashes->salts_done	0
+TOP.65a8d4d1.0004e058	SUB.65a8d4d8.00033ee4	START
+TOP.65a8d4d1.0004e058	SUB.65a8d4d8.00033ee4	mask_ctx->mask	?1
+TOP.65a8d4d1.0004e058	SUB.65a8d4d8.00033ee4	runtime_start	1705563353
+TOP.65a8d4d1.0004e058	SUB.65a8d4d8.00033ee4	runtime_stop	1705563361
+TOP.65a8d4d1.0004e058	SUB.65a8d4d8.00033ee4	hashes->digests_done_new	0
+TOP.65a8d4d1.0004e058	SUB.65a8d4d8.00033ee4	status-after-work	5
+TOP.65a8d4d1.0004e058	SUB.65a8d4d8.00033ee4	STOP
+TOP.65a8d4d1.0004e058	SUB.65a8d4e1.000c53ba	START
+TOP.65a8d4d1.0004e058	SUB.65a8d4e1.000c53ba	mask_ctx->mask	?1?2
+TOP.65a8d4d1.0004e058	SUB.65a8d4e1.000c53ba	runtime_start	1705563362
+TOP.65a8d4d1.0004e058	SUB.65a8d4e1.000c53ba	runtime_stop	1705563370
+TOP.65a8d4d1.0004e058	SUB.65a8d4e1.000c53ba	hashes->digests_done_new	0
+TOP.65a8d4d1.0004e058	SUB.65a8d4e1.000c53ba	status-after-work	5
+TOP.65a8d4d1.0004e058	SUB.65a8d4e1.000c53ba	STOP
+TOP.65a8d4d1.0004e058	SUB.65a8d4ea.0009f986	START
+TOP.65a8d4d1.0004e058	SUB.65a8d4ea.0009f986	mask_ctx->mask	?1?2?2
+TOP.65a8d4d1.0004e058	SUB.65a8d4ea.0009f986	runtime_start	1705563371
+TOP.65a8d4d1.0004e058	SUB.65a8d4ea.0009f986	runtime_stop	1705563399
+TOP.65a8d4d1.0004e058	SUB.65a8d4ea.0009f986	hashes->digests_done_new	0
+TOP.65a8d4d1.0004e058	SUB.65a8d4ea.0009f986	status-after-work	5
+TOP.65a8d4d1.0004e058	SUB.65a8d4ea.0009f986	STOP
+TOP.65a8d4d1.0004e058	SUB.65a8d507.0007db86	START
+TOP.65a8d4d1.0004e058	SUB.65a8d507.0007db86	mask_ctx->mask	?1?2?2?2
+TOP.65a8d4d1.0004e058	SUB.65a8d507.0007db86	runtime_start	1705563400
+TOP.65a8d4d1.0004e058	SUB.65a8d507.0007db86	runtime_stop	1705563437
+TOP.65a8d4d1.0004e058	SUB.65a8d507.0007db86	hashes->digests_done_new	1
+TOP.65a8d4d1.0004e058	SUB.65a8d507.0007db86	status-after-work	6
+TOP.65a8d4d1.0004e058	SUB.65a8d507.0007db86	STOP
+TOP.65a8d4d1.0004e058	proc_start	1705563345
+TOP.65a8d4d1.0004e058	proc_stop	1705563439
+TOP.65a8d4d1.0004e058	STOP
