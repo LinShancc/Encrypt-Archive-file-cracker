@@ -6,10 +6,12 @@
 ## 依赖
   ### 1.9.0-jumbo-1（文件中所包含的为64位）
 官网地址：https://www.openwall.com/john/
+
 利用其获得加密rar文件的hash值。
 
   ### hashcat（文件中已包含）
 官网地址：https://hashcat.net/hashcat/
+
 利用所获hash值进行解密核心。
 
 ## 未来展望
