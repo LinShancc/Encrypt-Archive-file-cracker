@@ -1,11 +1,11 @@
-# 加密压缩文件破解器 Encrypt-Archive-file-cracker v1.10
+# 加密压缩文件破解器 Encrypt-Archive-file-cracker v1.1.0
 *图形用户界面化操作hashcat进行对加密rar、zip的密码破解。*
 
 *GUI operation of hashcat for cracking the password of encrypted RAR files.*
 
 ![image](https://github.com/LinShancc/Encrypt-Archive-file-cracker/assets/129955394/a712b310-192d-4f65-82ed-5b8909dea9a3)
 
-## 目前版本1.10,支持RAR、ZIP
+## 目前版本1.1.0,支持RAR、ZIP
 
 可以近乎吃满显卡性能对加密rar、zip文件快速解密，实测4位密码加密在RTX3060 6G Loptop解密时长在50s左右。
 
