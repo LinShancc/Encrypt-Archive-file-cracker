@@ -1,12 +1,13 @@
-# 加密RAR文件破解器 Encrypt-RAR-file-cracker 
-*图形用户界面化操作hashcat进行对加密rar的密码破解。*
+# 加密压缩文件破解器 Encrypt-Archive-file-cracker v1.10
+*图形用户界面化操作hashcat进行对加密rar、zip的密码破解。*
 
 *GUI operation of hashcat for cracking the password of encrypted RAR files.*
 
 <img width="322" alt="image" src="https://github.com/LinShancc/Encrypt-RAR-file-cracker/assets/129955394/8c1a5d58-e132-4e95-a817-e99a82d2714b">
 
+## 目前版本1.10,支持RAR、ZIP
 
-可以近乎吃满显卡性能对加密rar文件快速解密，实测4位密码加密在RTX3060 6G Loptop解密时长在50s左右。
+可以近乎吃满显卡性能对加密rar、zip文件快速解密，实测4位密码加密在RTX3060 6G Loptop解密时长在50s左右。
 
 It can nearly fully utilize the graphics card's performance for rapid decryption of encrypted RAR files. In practical tests, a 4-digit password encrypted file took about 50 seconds to decrypt on an RTX 3060 6G Laptop.
 
@@ -33,6 +34,8 @@ Subsequently, it can be extended to the cracking of various types of encrypted f
 1.在进行解密过程中程序会出现无响应的状态，但这是正常的，等解密完成就正常。
 During the decryption process, the program may become unresponsive, but this is normal. It will return to normal once the decryption is complete.
 
-**2.rar文件名包含中文（繁、简）会无法进行解密。**
+**2.文件名包含中文（繁、简）会无法进行解密。**
 **If the RAR file name includes Chinese characters (traditional or simplified), decryption cannot be performed.**
 
+**3.ZIP文件中若包含一些特殊文件（如word文件等）会造成hach值过长而无法破解的问题.**
+**If the ZIP file contains some special files (such as word files, etc.), it will cause the problem that the hach value is too long to crack.**
